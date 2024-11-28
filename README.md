@@ -10,6 +10,12 @@ A simple scorekeeping app for a two-player game.
 - Bulma CSS: Styling and responsive layout.
 - JavaScript:  functionality and interactivity.
 
+
+## Demo
+
+The deployed version of this app is available
+ [here](https://rashaalsh.github.io/Score-keeper-app/)
+ 
 ## Screenshots  :camera:
 
 ![App Screenshot](https://i.ibb.co/mNbTWBF/Screenshot-2024-11-28-at-11-47-01.png")

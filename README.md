@@ -27,7 +27,7 @@ Scores update instantly as players interact with the app.
 - Winning Logic:
 The app prevents further score changes once a player wins.
 - Custom Winning Score:
-Players can set a new winning score dynamically.
+Players can set a new winning score dynamically. form 3 to 11 
 - Reset Capability:
 The reset button allows users to start a fresh game without reloading the page.
 
